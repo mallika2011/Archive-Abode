@@ -12,6 +12,11 @@ Hope this helps whoever requires them. Sorry if there are any mistakes in the no
 * CSO - Computer Systems Organisation
 * Linear Algebra
 
+### Monsoon 2019
+* Algorithm Analysis & Design
+* Science 1
+* Automata Theory
+
 ### Spring 2020
 * Intro to Information Security
 * Intro to Quantum Computing
